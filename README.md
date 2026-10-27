@@ -47,6 +47,7 @@ A DIY hot plate is a homemade heater, usually a PCB with a long copper trace tha
 ├── Gerber/       Gerber file
 ├── PickAndPlace/ PickAndPlace file
 ├── schematics/   Schematic image
+├── Firmware/     Firmware
 └── images/       photos and renders
 
 ```

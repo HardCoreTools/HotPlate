@@ -11,11 +11,11 @@
 
 A DIY hot plate is a homemade heater, usually a PCB with a long copper trace that heats up when current flows through it. A MOSFET switches the power on and off to control the temperature, using feedback from a temperature sensor. It’s used for soldering, preheating boards, and curing small parts.
 
-## Cost JLCPCB
+## Cost 
 
 
-
-
+<img src="images/Screenshot 2026-10-27 144014.png" alt="price" width="240">
+Screenshot 2026-10-27 144014.png
 
 ## Schematics
 

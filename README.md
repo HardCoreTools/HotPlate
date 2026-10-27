@@ -1,9 +1,9 @@
 # HotPlate
-**Its a DIY hotplate that makes soldering smd components very easy. And makes it cheaper because no one whants to buy those expensive hotplates**
+**Its a DIY hotplate that makes soldering smd components very easy. And makes it cheaper because no one wants to buy those expensive hotplates**
 
 ![PCB](https://img.shields.io/badge/PCB-EasyEDA-red)
 
-<img src="images/" alt="Photo of the finished hotplate" width="640">
+<img src="images/Screenshot 2026-10-27 100311.png" alt="Photo of the finished hotplate" width="640">
 
 ##  Overview
 
@@ -24,10 +24,10 @@ A DIY hot plate is a homemade heater, usually a PCB with a long copper trace tha
 
 <img src="schematics/" alt="Photo of the shematics" width="900">
 
-<img src="images/" alt="Photo of the finished hotplate" width="640">
+<img src="images/Screenshot 2026-10-27 102449.png" alt="Photo of the finished hotplate" width="380">
 
 
-<img src="images/" alt="Photo of the finished hotplate" width="640">
+<img src="images/Screenshot 2026-10-27 102455.png" alt="Photo of the finished hotplate" width="380">
 
 
 

@@ -3,7 +3,7 @@
 
 ![PCB](https://img.shields.io/badge/PCB-EasyEDA-red)
 
-<img src="images/Screenshot 2026-10-27 100311.png" alt="Photo of the finished hotplate" width="640">
+<img src="images/Screenshot 2026-10-30 161108.png" alt="Photo of the finished hotplate" width="640">
 
 ##  Overview
 
@@ -30,13 +30,13 @@ A DIY hot plate is a homemade heater, usually a PCB with a long copper trace tha
 **This project was made on EasyEDA**
 
 
-<img src="schematics/SCH_Schematic1_Hotplate.png" alt="Photo of the shematics" width="900">
+<img src="schematics/SCH_Schematic1_1-P1_2026-10-30.png" alt="Photo of the shematics" width="900">
 
-<img src="images/Screenshot 2026-10-27 102449.png" alt="Photo of the finished hotplate" width="380">
+<img src="images/Screenshot 2026-10-30 161046.png" alt="Photo of the finished hotplate" width="380">
 
 
-<img src="images/Screenshot 2026-10-27 102455.png" alt="Photo of the finished hotplate" width="380">
-
+<img src="images/Screenshot 2026-10-30 161053.png" alt="Photo of the finished hotplate" width="380">
+<img src="images/Screenshot 2026-10-30 155322.png" alt="Photo of the finished hotplate" width="340">
 
 
 ## Repo structure

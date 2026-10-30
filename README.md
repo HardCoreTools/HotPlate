@@ -16,14 +16,15 @@ A DIY hot plate is a homemade heater, usually a PCB with a long copper trace tha
 
 | Name          | Description                                                                   | Price  | Shipping+tariff |
 | ------------- | ----------------------------------------------------------------------------- | ------ | -------- |
-| Componenets   | Components from LCSC. Detailed breakdown [here](/BOM/export_cart_20261027_215536.csv) | $21.93  | $36.97   |
-| PCB+Stencil   | PCB and stencil from JLC                                                      | $10.03 | $32.88   |
-| **Sub Total** |                                                                               | $31.96 | $69.85   |
-| **Total**     |                                                                               | $101.81 |          |
+| Componenets   | Components from LCSC. Detailed breakdown [here](/BOM/export_cart_20261030_234017.csv) | $15.92  | $52.19   |
+| PCB+Stencil   | PCB and stencil from JLC                                                      | $10.00 | $36.20   |
+| **Sub Total** |                                                                               | $25.92 | $88,39   |
+| **Total**     |                                                                               | $114.31 |          |
 
 
-<img src="images/Screenshot 2026-10-27 145048.png" alt="price" width="240">
-<img src="images/Screenshot 2026-10-27 150108.png" alt="price" width="240">
+
+<img src="images/Screenshot 2026-10-30 162849.png" alt="price" width="240">
+<img src="images/Screenshot 2026-10-30 163432.png" alt="price" width="240">
 
 ## Schematics
 

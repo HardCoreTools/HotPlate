@@ -39,6 +39,10 @@ A DIY hot plate is a homemade heater, usually a PCB with a long copper trace tha
 <img src="images/Screenshot 2026-10-30 161053.png" alt="Photo of the finished hotplate" width="380">
 <img src="images/Screenshot 2026-10-30 155322.png" alt="Photo of the finished hotplate" width="340">
 
+## CAD
+
+<img src="images/Screenshot 2026-11-07 144451.png" alt="Photo of the finished hotplate" width="340">
+
 
 ## Repo structure
 
